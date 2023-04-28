@@ -1,0 +1,16 @@
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+D:\AUniver\TMPS\Lab3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
