@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace ConsoleApp3
@@ -20,12 +20,12 @@ namespace ConsoleApp3
             Console.WriteLine("");
             // Director tries to acces SHARED FOLDER >> Access granted
             SharedFolderProxy sharedFolder1 = new SharedFolderProxy(employees[3]);
-            sharedFolder1.PerformOperation(employees[3], employees);
+            sharedFolder1.PerformOperation(employees);
 
             Console.WriteLine("");
             // Developer tries to access SHARED FOLDER >> Access denied
             SharedFolderProxy sharedFolder2 = new SharedFolderProxy(employees[0]);
-            sharedFolder2.PerformOperation(employees[0], employees);
+            sharedFolder2.PerformOperation(employees);
         }
     }
 
@@ -83,12 +83,12 @@ namespace ConsoleApp3
 
     public interface ISharedFolder
     {
-        void PerformOperation(Employee employee, List<Employee> employees);
+        void PerformOperation(List<Employee> employees);
     }
 
     public class SharedFolder : ISharedFolder
     {
-        public void PerformOperation(Employee employee, List<Employee> employees)
+        public void PerformOperation(List<Employee> employees)
         {
             Console.WriteLine("The list of all employees. Choose one to modifiy their salary: ");
             for(int i=0; i<employees.Count; i++)
@@ -116,14 +116,14 @@ namespace ConsoleApp3
             this.sharedEmployee = employee;
         }
 
-        public void PerformOperation(Employee employee, List<Employee> employees)
+        public void PerformOperation(List<Employee> employees)
         {
-            if(employee.Role == "Director" || employee.Role == "Manager")
+            if(sharedEmployee.Role == "Director" || sharedEmployee.Role == "Manager")
             {
                 folder = new SharedFolder();
-                folder.PerformOperation(employee, employees);
+                folder.PerformOperation(employees);
             }
-            else Console.WriteLine($"Your role is {employee.Role}. Proxy Shared Folder does not allow user with such role acces the folder.");
+            else Console.WriteLine($"Your role is {sharedEmployee.Role}. Proxy Shared Folder does not allow user with such role acces the folder.");
         }
 
     }
