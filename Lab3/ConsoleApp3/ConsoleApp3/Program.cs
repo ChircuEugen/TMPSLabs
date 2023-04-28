@@ -20,7 +20,7 @@ namespace ConsoleApp3
             Console.WriteLine("");
             // Director tries to acces SHARED FOLDER >> Access granted
             SharedFolderProxy sharedFolder1 = new SharedFolderProxy(employees[3]);
-            sharedFolder1.PerformOperation(employees[2], employees);
+            sharedFolder1.PerformOperation(employees[3], employees);
 
             Console.WriteLine("");
             // Developer tries to access SHARED FOLDER >> Access denied
