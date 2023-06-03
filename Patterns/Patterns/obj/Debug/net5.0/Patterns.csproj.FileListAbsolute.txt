@@ -1,0 +1,16 @@
+D:\AUniver\TMPS\Patterns\Patterns\bin\Debug\net5.0\Patterns.exe
+D:\AUniver\TMPS\Patterns\Patterns\bin\Debug\net5.0\Patterns.deps.json
+D:\AUniver\TMPS\Patterns\Patterns\bin\Debug\net5.0\Patterns.runtimeconfig.json
+D:\AUniver\TMPS\Patterns\Patterns\bin\Debug\net5.0\Patterns.runtimeconfig.dev.json
+D:\AUniver\TMPS\Patterns\Patterns\bin\Debug\net5.0\Patterns.dll
+D:\AUniver\TMPS\Patterns\Patterns\bin\Debug\net5.0\ref\Patterns.dll
+D:\AUniver\TMPS\Patterns\Patterns\bin\Debug\net5.0\Patterns.pdb
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.csproj.AssemblyReference.cache
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.AssemblyInfoInputs.cache
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.AssemblyInfo.cs
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.csproj.CoreCompileInputs.cache
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.dll
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\ref\Patterns.dll
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.pdb
+D:\AUniver\TMPS\Patterns\Patterns\obj\Debug\net5.0\Patterns.genruntimeconfig.cache
