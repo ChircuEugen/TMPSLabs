@@ -40,12 +40,6 @@ namespace Patterns
             carCollection.AddCar(car2);
             carCollection.AddCar(car3);
 
-            //Console.WriteLine();
-            //for (Car car = carCollection.iter.First(); !carCollection.iter.IsCompleted; car = carCollection.iter.Next())
-            //{
-            //    car.Show();
-            //}
-
             Iterator iterator = carCollection.CreateIterator();
 
             Console.WriteLine("\nShowing all elements from carCollection through iterator: ");
